@@ -1,0 +1,10 @@
+ GNU nano 8.2                       .gitignore                       Modified
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+*.csproj
+*.unityproj*.sln
+*.userprefs
